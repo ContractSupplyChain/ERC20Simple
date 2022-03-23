@@ -1,1 +1,1 @@
-# TSC-ERC20Simple
+#ERC20Simple
